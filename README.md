@@ -4,7 +4,7 @@ An AI-powered web application that converts meeting audio into text and generate
 
 ---
 
-## 📌 Features
+## Features
 
 - 🎤 Upload or record meeting audio
 - 📝 Automatic Speech-to-Text transcription using Whisper.cpp
@@ -16,18 +16,16 @@ An AI-powered web application that converts meeting audio into text and generate
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Whisper.cpp
-- Ollama
-- Llama 3.2
+- Ollama Llama 3.2
 - MySQL
 - Gradio
-
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 ```text
 Audio Upload / Recording
@@ -58,7 +56,7 @@ Audio Upload / Recording
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. Upload or record a meeting audio.
 2. (Optional) Enter additional meeting context.
@@ -84,7 +82,7 @@ Audio Upload / Recording
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AI-Powered-Meeting-Summarizer/
@@ -101,7 +99,7 @@ AI-Powered-Meeting-Summarizer/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -134,7 +132,7 @@ python app.py
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Multi-language transcription
 - Speaker identification
@@ -145,7 +143,7 @@ python app.py
 
 ---
 
-## 🎯 Applications
+## Applications
 
 - Business Meetings
 - Online Classes
