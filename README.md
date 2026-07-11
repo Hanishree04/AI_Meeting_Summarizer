@@ -136,7 +136,6 @@ python app.py
 
 ## 💡 Future Enhancements
 
-- Real-time meeting summarization
 - Multi-language transcription
 - Speaker identification
 - Action item extraction
@@ -155,16 +154,3 @@ python app.py
 - Conferences
 - Research Meetings
 
----
-
-## 👩‍💻 Developer
-
-**Hanishree**
-
-Computer Science Engineering (Data Science)
-
----
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
